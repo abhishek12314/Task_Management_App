@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.env
+npm-debug.log
+
+# Logs
+logs
+*.log
+
+# Build folders
+dist/
+build/
+
+# OS files
+.DS_Store
+
+# React
+client/node_modules/
+client/build/
